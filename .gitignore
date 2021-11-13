@@ -1,0 +1,6 @@
+# Virtual environment
+.env/
+
+# Input and output files
+*.html
+*.tex
